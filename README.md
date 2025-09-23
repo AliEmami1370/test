@@ -1,2 +1,2 @@
 # test
-A repo for testing
+A repository for testing
